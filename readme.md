@@ -37,5 +37,4 @@ Now open the .zshrc file, scroll down to plugins and add
 
 ``` 
 plugins = ( [other--plugins] zsh-syntax-highlighting)
-
 ```
