@@ -1,5 +1,7 @@
 # My Custom Terminal configs
 
+##Clone the repo and use the script or follow the steps below
+
 ## Install zsh
 
 Install zsh from your distro's package manager
